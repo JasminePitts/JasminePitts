@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JasminePitts/JasminePitts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Business Analytics Nanodegree with Udacity 
 - 🌱 I’m currently learning how to navigate tableau and create awesome dashboards
